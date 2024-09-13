@@ -1,0 +1,14 @@
+.fsize28 {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.fsize28.black-background {
+    color: white;
+    background-color: black;
+}
+
+.fsize28.yellow-background{
+    color: black;
+    background-color: yellow;
+}
